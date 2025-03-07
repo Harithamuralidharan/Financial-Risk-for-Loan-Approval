@@ -1,2 +1,2 @@
-# Obesity_Prediction
- This dataset helps estimate obesity levels based on eating habits, family history and physical condition. It includes data from individuals in Mexico, Peru, and Colombia, covering 16 lifestyle and health-related features . The labels classify obesity levels, ranging from underweight to different obesity types.
+# Weather_Prediction
+  It includes various weather-related features and categorizes the weather into four types: Rainy, Sunny, Cloudy, and Snowy. Contains synthetic data for weather type classification, including features like temperature, humidity, wind speed, precipitation percentage, cloud cover, atmospheric pressure, UV index, season, visibility, and location. Ideal for practicing classification algorithms and exploring weather pattern predictions
