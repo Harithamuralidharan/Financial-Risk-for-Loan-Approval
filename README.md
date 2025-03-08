@@ -1,2 +1,2 @@
-# Weather_Prediction
-  It includes various weather-related features and categorizes the weather into four types: Rainy, Sunny, Cloudy, and Snowy. Contains synthetic data for weather type classification, including features like temperature, humidity, wind speed, precipitation percentage, cloud cover, atmospheric pressure, UV index, season, visibility, and location. Ideal for practicing classification algorithms and exploring weather pattern predictions
+#  Financial Risk for Loan Approval data
+  This dataset is a original Credit Risk dataset and enriched with additional variables based on Financial Risk for Loan Approval data. SMOTENC was used to simulate new data points to enlarge the instances. The dataset is structured for both categorical and continuous features.
